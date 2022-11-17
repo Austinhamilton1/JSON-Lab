@@ -1,0 +1,111 @@
+{
+  "kind": "books#volume",
+  "id": "UjDC0_MtMj4C",
+  "etag": "KDUFjrHdHss",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/UjDC0_MtMj4C",
+  "volumeInfo": {
+    "title": "The Metaphysics",
+    "authors": [
+      "Aristotle"
+    ],
+    "publisher": "Penguin UK",
+    "publishedDate": "2004-05-27",
+    "description": "The Metaphysics presents Aristotle's mature rejection of both the Platonic theory that what we perceive is just a pale reflection of reality and the hardheaded view that all processes are ultimately material. He argued instead that the reality or substance of things lies in their concrete forms, and in so doing he probed some of the deepest questions of philosophy: What is existence? How is change possible? And are there certain things that must exist for anything else to exist at all? The seminal notions discussed in The Metaphysics - of 'substance' and associated concepts of matter and form, essence and accident, potentiality and actuality - have had a profound and enduring influence, and laid the foundations for one of the central branches of Western philosophy.",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_10",
+        "identifier": "0141912014"
+      },
+      {
+        "type": "ISBN_13",
+        "identifier": "9780141912011"
+      }
+    ],
+    "readingModes": {
+      "text": true,
+      "image": false
+    },
+    "pageCount": 528,
+    "printedPageCount": 516,
+    "printType": "BOOK",
+    "categories": [
+      "Philosophy / Metaphysics",
+      "Philosophy / History & Surveys / Ancient & Classical",
+      "Literary Collections / Ancient & Classical"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.7.7.0.preview.2",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=UjDC0_MtMj4C&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE71Le3G7XgbApcSniuXjjSgJpF4nTYzQ2GtGQPz02FVGVpFMUI1l6eOheSYUzSompd7T6sCYbPymqJHJK_GKVaABsrw-Nt-jnqqr_or6vje3pcgiWe5AEFjGdB8qmmarqRWNMIVM&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=UjDC0_MtMj4C&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE70SKBZKC2kQ_friJHuQmtvYOftq24POWer4JXcCvhX0UVT19mn_0AjKEr6bXGV82RDc7Q63N4G9BQAIkwJYN6qs3UqpGQBf1gmWONF-ApGInEIaod4_nEyXejQ9MLJr5e52aI8Q&source=gbs_api",
+      "small": "http://books.google.com/books/content?id=UjDC0_MtMj4C&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE70flB-o5Kq0G3vKVBpzK7Rd8xhx-Qu-o5L6LewCeA-Gc8d9OSCWnNWLHPc0f78GWNkdrvsnyp5Q2xRVUc9_Gx81AIfzYrU8yfyYynYm6i5uyBZjfmk0KQkIrf8IA030--c-pWLD&source=gbs_api",
+      "medium": "http://books.google.com/books/content?id=UjDC0_MtMj4C&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE71_tinYRKjONOEt-Q6t3FIBu32m_ccRBBxbCtyOczuqq8BSX652RJydzHhAH3qRKJrJTZqRKTEDZ2gEZF4Sk11iNogJHnWwkrAoxe0ROnJsc3BBF8ARWqLvd4vKwl4C6SkxjBrN&source=gbs_api",
+      "large": "http://books.google.com/books/content?id=UjDC0_MtMj4C&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE72zQYogyqwRZqjScn-3ZsnSKH87GrO1EaTj6Se6b4nfOdoRU-nZgEK6Ud9LjBbmSawSMF4IW0JjFLYnhrXXmSNyiJP1WxpEf1w09eQic9o-bGWnHaZtEyNRoyig-xu1s0_IgAvw&source=gbs_api",
+      "extraLarge": "http://books.google.com/books/content?id=UjDC0_MtMj4C&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE73nGop7mOpvg5_6erL9sHOn6cVQUw9LsuySKhFAO7yGHvel6SpUc9nT3tz2KxGL1fW4JKYTkZVXRI-aSfF1pNu4cPWL8EyQ1_etCYmkVGVu3kPUOxAR8I2z56SXr8UOJKVSLr9d&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=UjDC0_MtMj4C&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=UjDC0_MtMj4C&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=UjDC0_MtMj4C"
+  },
+  "layerInfo": {
+    "layers": [
+      {
+        "layerId": "geo",
+        "volumeAnnotationsVersion": "12"
+      }
+    ]
+  },
+  "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+      "amount": 14.09,
+      "currencyCode": "USD"
+    },
+    "retailPrice": {
+      "amount": 14.09,
+      "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=UjDC0_MtMj4C&rdid=book-UjDC0_MtMj4C&rdot=1&source=gbs_api",
+    "offers": [
+      {
+        "finskyOfferType": 1,
+        "listPrice": {
+          "amountInMicros": 14090000,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amountInMicros": 14090000,
+          "currencyCode": "USD"
+        },
+        "giftable": true
+      }
+    ]
+  },
+  "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.com/books/download/The_Metaphysics-sample-epub.acsm?id=UjDC0_MtMj4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+      "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=UjDC0_MtMj4C&hl=&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "kind": "books#volume",
+  "id": "nVGKDgAAQBAJ",
+  "etag": "C7HTxe3FOeM",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/nVGKDgAAQBAJ",
+  "volumeInfo": {
+    "title": "Crime and Punishment",
+    "authors": [
+      "Fyodor Dostoyevsky",
+      "Constance Garnett"
+    ],
+    "publisher": "Courier Corporation",
+    "publishedDate": "2001",
+    "description": "\u003cp\u003eThe two years before he wrote \u003ci\u003eCrime and Punishment\u003c/i\u003e (1866) had been bad ones for Dostoyevsky. His wife and brother had died; the magazine he and his brother had started, \u003ci\u003eEpoch\u003c/i\u003e, collapsed under its load of debt; and he was threatened with debtor's prison. With an advance that he managed to wangle for an unwritten novel, he fled to Wiesbaden, hoping to win enough at the roulette table to get himself out of debt. Instead, he lost all his money; he had to pawn his clothes and beg friends for loans to pay his hotel bill and get back to Russia. One of his begging letters went to a magazine editor, asking for an advance on yet another unwritten novel — which he described as \u003ci\u003eCrime and Punishment\u003c/i\u003e.\u003cbr\u003e One of the supreme masterpieces of world literature, \u003ci\u003eCrime and Punishment\u003c/i\u003e catapulted Dostoyevsky to the forefront of Russian writers and into the ranks of the world's greatest novelists. Drawing upon experiences from his own prison days, the author recounts in feverish, compelling tones the story of Raskolnikov, an impoverished student tormented by his own nihilism, and the struggle between good and evil. Believing that he is above the law, and convinced that humanitarian ends justify vile means, he brutally murders an old woman — a pawnbroker whom he regards as &quot;stupid, ailing, greedy…good for nothing.&quot; Overwhelmed afterwards by feelings of guilt and terror, Raskolnikov confesses to the crime and goes to prison. There he realizes that happiness and redemption can only be achieved through suffering. Infused with forceful religious, social, and philosophical elements, the novel was an immediate success. This extraordinary, unforgettable work is reprinted here in the authoritative Constance Garnett translation.\u003cbr\u003e A selection of the Common Core State Standards Initiative.\u003c/p\u003e",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_10",
+        "identifier": "0486415872"
+      },
+      {
+        "type": "ISBN_13",
+        "identifier": "9780486415871"
+      }
+    ],
+    "readingModes": {
+      "text": false,
+      "image": true
+    },
+    "pageCount": 430,
+    "printedPageCount": 449,
+    "dimensions": {
+      "height": "21.00 cm",
+      "width": "13.20 cm",
+      "thickness": "3.00 cm"
+    },
+    "printType": "BOOK",
+    "categories": [
+      "Fiction / Literary",
+      "Fiction / Classics"
+    ],
+    "averageRating": 5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.1.0.preview.1",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/publisher/content?id=nVGKDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE73zUPTnTbgunuVxbjbeELT-jL2Ei25JINhSdN3j9U8G-WN3mAGdJEV7buHu4hCR8HthKdtwlTisCVI1S2oFxkMN51xW19hkyuoS8jrXVhY7cWUQGNI5r8vjuuzEpiv6MDNi31Oe&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/publisher/content?id=nVGKDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE73tpZuokRlthNlai4LF0qOrxMROU5Kytb4Xqym-LHmNHKtoNGDCb5vkWPdJX6HUIwbBMQp4pDQ4UkiKKko3ZBTnpvrnPabn-NoS-9eV-golCeefXR2IFFygsaMs4wFJiBkbQi1L&source=gbs_api",
+      "small": "http://books.google.com/books/publisher/content?id=nVGKDgAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE73NB6IZgVp2mgX7otC3sq3n6L9MlQr5tzMQdfAfvXna-wb3c1XP3ZdUNlgvq7uV5SdpPeBvmspfLKqa8NbGjyEimgjP7_Z_PqEiJYRQGdsBQSjyGmuWKC_V0UXnW4ScHBxph1cu&source=gbs_api",
+      "medium": "http://books.google.com/books/publisher/content?id=nVGKDgAAQBAJ&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE72Jfvwrg4YuisQYSNZoHEtkX_e0lymIYnaEM-IBKuiajFB1qz260AN7tFPmd4NW17H5QYLCDbK2IcclaiwL_D64HvFu7YVBG4vRQBz8JDk-_4iooYoa_yibBMVd0T-jj8VkaogH&source=gbs_api",
+      "large": "http://books.google.com/books/publisher/content?id=nVGKDgAAQBAJ&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE71JWLIJImH9wKRtKACrPCPaCkOvW6cHlwBJMdkwJb_uqsdJcsaA-T8gWoVxF1ED27akZzEgKamyOmImGLwGhUJop2heWGDty1B0FqPB2-pf9LNcwDtra7F8cmdSJ8m-NZ8yYIro&source=gbs_api",
+      "extraLarge": "http://books.google.com/books/publisher/content?id=nVGKDgAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE73EqW23ot4fgxsRtXhJec0ebSDsLcBhKGFlFg_7YpLgq2OIatRAKxRSlmje20vARK2RFRD-CUltlJoPtb5alG1Kl6BDyASwvMI3lA9xdro_r13XLvloq-2n2D9O6Yh68Ef-koyT&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=nVGKDgAAQBAJ&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=nVGKDgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=nVGKDgAAQBAJ"
+  },
+  "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+  },
+  "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+      "isAvailable": false
+    },
+    "pdf": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.com/books/download/Crime_and_Punishment-sample-pdf.acsm?id=nVGKDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=nVGKDgAAQBAJ&hl=&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+  }
+}

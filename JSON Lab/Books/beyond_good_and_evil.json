@@ -1,0 +1,73 @@
+{
+  "kind": "books#volume",
+  "id": "3fdBtAEACAAJ",
+  "etag": "XgawDmeLT6M",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/3fdBtAEACAAJ",
+  "volumeInfo": {
+    "title": "Beyond Good And Evil",
+    "authors": [
+      "Friedrich Wilhelm Nietzsche"
+    ],
+    "publisher": "Chump Change",
+    "publishedDate": "2018-01-31",
+    "description": "\u003cp\u003eUnabridged English value reproduction of Beyond Good And Evil by Friedrich Nietzsche and translated by Helen Zimmern. This philosophical classic is a must read because of its fearless approach to how knowledge is formed.\u003c/p\u003e\u003cp\u003eBeyond Good And Evil asks, is truth absolute? Do humans invent ways to fortify already held views or truly seek the truth? Are the powerful more 'right' than the weak? Or is Nietzsche writing down page after page to hear himself talk?\u003c/p\u003e\u003cp\u003eLet the reader decide in this slim volume with full text and footnotes, produced at an affordable price.\u003c/p\u003e\u003cp\u003eTABLE OF CONTENTS\u003c/p\u003e\u003cp\u003ePREFACE 3\u003cbr\u003e CHAPTER I. PREJUDICES OF PHILOSOPHERS 4\u003cbr\u003e CHAPTER II. THE FREE SPIRIT 13\u003cbr\u003e CHAPTER III. THE RELIGIOUS MOOD 21\u003cbr\u003e CHAPTER IV. APOPHTHEGMS AND INTERLUDES 28\u003cbr\u003e CHAPTER V. THE NATURAL HISTORY OF MORALS 33\u003cbr\u003e CHAPTER VI. WE SCHOLARS 41\u003cbr\u003e CHAPTER VII. OUR VIRTUES 49\u003cbr\u003e CHAPTER VIII. PEOPLES AND COUNTRIES 59\u003cbr\u003e CHAPTER IX. WHAT IS NOBLE? 68\u003cbr\u003e FROM THE HEIGHTS \u003c/p\u003e",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_10",
+        "identifier": "164032092X"
+      },
+      {
+        "type": "ISBN_13",
+        "identifier": "9781640320925"
+      }
+    ],
+    "readingModes": {
+      "text": false,
+      "image": false
+    },
+    "pageCount": 84,
+    "printedPageCount": 84,
+    "dimensions": {
+      "height": "23.40 cm",
+      "width": "15.60 cm",
+      "thickness": "0.80 cm"
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=3fdBtAEACAAJ&printsec=frontcover&img=1&zoom=5&imgtk=AFLRE739spuhyVmtzXKWlfjRYPlrF5_IwufxdXiIJ8iOnLJyboCXrFJBWvOwtB3tmHPRq-_INzn5QIAhef0E1C0zUKHkQ9P170RZvAdFbGCk0zd4byxUgFJ21_ZG4oVuB0R2BD_TvF_l&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=3fdBtAEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73Qa7JEKU2NMqg1c6okhM5xgYssaGmZDW2NL4ZFr8JKQb_y-2RspM6qKf1OaMg3s-jHrBmVnfrBwp26UnAlFzlD8oSGimDaf25-1a_6ykw2TfPTQxTbPw80UTgcZ-SyHaqw9mEh&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=3fdBtAEACAAJ&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=3fdBtAEACAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=3fdBtAEACAAJ"
+  },
+  "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+  },
+  "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+      "isAvailable": false
+    },
+    "pdf": {
+      "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=3fdBtAEACAAJ&hl=&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+  }
+}

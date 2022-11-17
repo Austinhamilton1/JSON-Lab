@@ -1,0 +1,78 @@
+{
+  "kind": "books#volume",
+  "id": "axgdRqE-VTYC",
+  "etag": "wNMFwmbYxF8",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/axgdRqE-VTYC",
+  "volumeInfo": {
+    "title": "Catch-22",
+    "authors": [
+      "Joseph Heller"
+    ],
+    "publisher": "Vintage Books",
+    "publishedDate": "2011",
+    "description": "Set in the closing months of World War II, this is the story of a bombardier named Yossarian who is furious because thousands of people he has never met are trying to kill him. His real problem is not the enemy - it is his own army which keeps increasing the number of missions the men must fly to complete their service. If Yossarian makes any attempts to excuse himself from the perilous missions then he is caught in Catch-22: if he flies he is crazy, and doesn't have to; but if he doesn't want to he must be sane, and has to. That's some catch ...",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_10",
+        "identifier": "0099529122"
+      },
+      {
+        "type": "ISBN_13",
+        "identifier": "9780099529125"
+      }
+    ],
+    "readingModes": {
+      "text": false,
+      "image": false
+    },
+    "pageCount": 540,
+    "printedPageCount": 548,
+    "dimensions": {
+      "height": "20.00 cm",
+      "width": "12.90 cm",
+      "thickness": "3.20 cm"
+    },
+    "printType": "BOOK",
+    "categories": [
+      "Fiction / Classics"
+    ],
+    "averageRating": 2,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.21.0.0.preview.0",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=axgdRqE-VTYC&printsec=frontcover&img=1&zoom=5&imgtk=AFLRE701mYAmqOLV77hxXzcUAn6Kwtpwl6O9yBnICf8SwV9NfX8FcQirRy5EBG3X78mtyiZ7e1eJ3-L4GEoLEh3M_O8gfTsYi2gvHlsXlnbDCBj-V7yEUTegS5yzcJGaMIkIF78TG6ZL&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=axgdRqE-VTYC&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70CQ3Nt-kNffK-e3dR5LmwP4QN3GYAvLmENnpTvWpVSnuD4z7-oRuUeKWE9o_Da1wUyAJeC-dSQnkVrrBDntrJysywGDO5X9e-YZFg_O-xXKvuqOW8wWzKiZPMA-X2i6wYC9M6m&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=axgdRqE-VTYC&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=axgdRqE-VTYC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=axgdRqE-VTYC"
+  },
+  "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+  },
+  "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+      "isAvailable": false
+    },
+    "pdf": {
+      "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=axgdRqE-VTYC&hl=&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+  }
+}

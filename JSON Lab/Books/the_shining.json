@@ -1,0 +1,83 @@
+{
+  "kind": "books#volume",
+  "id": "BQWPDQAAQBAJ",
+  "etag": "e0vobrmak0Q",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/BQWPDQAAQBAJ",
+  "volumeInfo": {
+    "title": "The Shining",
+    "authors": [
+      "Stephen King"
+    ],
+    "publisher": "Knopf Doubleday Publishing Group",
+    "publishedDate": "2013-08-27",
+    "description": "\u003cb\u003e#1 \u003ci\u003eNEW YORK TIMES\u003c/i\u003e BESTSELLER • Before \u003ci\u003eDoctor Sleep, \u003c/i\u003ethere was \u003ci\u003eThe Shining, \u003c/i\u003ea classic of modern American horror from the undisputed master, Stephen King.\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eJack Torrance’s new job at the Overlook Hotel is the perfect chance for a fresh start. As the off-season caretaker at the atmospheric old hotel, he’ll have plenty of time to spend reconnecting with his family and working on his writing. But as the harsh winter weather sets in, the idyllic location feels ever more remote . . . and more sinister. And the only one to notice the strange and terrible forces gathering around the Overlook is Danny Torrance, a uniquely gifted five-year-old.",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_10",
+        "identifier": "0345806786"
+      },
+      {
+        "type": "ISBN_13",
+        "identifier": "9780345806789"
+      }
+    ],
+    "readingModes": {
+      "text": false,
+      "image": false
+    },
+    "pageCount": 688,
+    "printedPageCount": 690,
+    "dimensions": {
+      "height": "21.00 cm",
+      "width": "13.10 cm",
+      "thickness": "2.80 cm"
+    },
+    "printType": "BOOK",
+    "categories": [
+      "Fiction / Horror",
+      "Fiction / Thrillers / Supernatural",
+      "Fiction / Ghost"
+    ],
+    "averageRating": 4,
+    "ratingsCount": 228,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.3.0.0.preview.0",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/publisher/content?id=BQWPDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE73gUZf69eRrYpqxOssZBX-jdvVbcBZ-6YZf9tWV9NzdDVe-MoZl-BjTvcbKUUQfGuoqYhDSPbcVlC2gpvTqId4R_6JehD2k8ty4Ts-orVAEXGk5EwRtgLliT7VZsXK1Wv3u2S95&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/publisher/content?id=BQWPDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE70JRspSLL78KGKBIP-jXVhFKuGHZzsn-LXVuMzTxfEEFOZkY18l0O-wn8hgJQIrGrenc5x0SOR--szusEw71TBDkrBcSQrDptLaDLSFIxg6KJtW1pmrz8tI5gXs4YQRymD8lBvX&source=gbs_api",
+      "small": "http://books.google.com/books/publisher/content?id=BQWPDQAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE72SWOd0Lj9mTIa2ZUX_QEiAdcMQgtpggvgts1H-oxafo9xbICzQbxnXAmIKH6nAFujaQyCHaV51Qto3K1A8pSIuzxJd-cDrB5oZAs53Oc5KUWhoTmfsSw9jb1BMi7VO7Tm3Qwkm&source=gbs_api",
+      "medium": "http://books.google.com/books/publisher/content?id=BQWPDQAAQBAJ&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE73BEtTpnIaJu5pz5S39ZlvWAfDVTE5pQDGnl0YOMb8QFQogenAlCF47TI3xZrDA1VusCluSzcLpiwCG_2n6snQXDatx9bATUdtoAkahymguCbPJs0AWdaHTJqAszrkxIRt45ffJ&source=gbs_api",
+      "large": "http://books.google.com/books/publisher/content?id=BQWPDQAAQBAJ&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE73rYI5gTzKu6W8_nvf2ZG6WzG_NOiDJBxJqxXt9a8TBYOvOk0wBi1kCslwNvBs6Cyac1rEpYJrqwhhiEmXdcDdUm4Kx2HSV5yTYfNG5wbll-lon-EMSeEu22YhzEReDy2eeZiEa&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=BQWPDQAAQBAJ&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=BQWPDQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=BQWPDQAAQBAJ"
+  },
+  "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+  },
+  "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+      "isAvailable": false
+    },
+    "pdf": {
+      "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=BQWPDQAAQBAJ&hl=&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+  }
+}
